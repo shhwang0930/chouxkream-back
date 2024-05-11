@@ -25,7 +25,7 @@
 
 ## 📄 프로젝트 문서
 ### <sub>[테이블 설계](https://www.erdcloud.com/d/xFrQtSkb8uJTavzGm)</sub>
-### <sub>[API 명세서](https://tender-bunny-45c.notion.site/e94ac1ca07e746e5bcb168b616421ad0?v=f4ce1a9710b74136b8b8f60dbbfa6e6a&pvs=74](https://www.notion.so/74e6d148b6e2491a8269da70651d2960?v=7c35a1f486694deab3d34b30febc5abd))</sub>
+### <sub>[API 명세서](https://www.notion.so/74e6d148b6e2491a8269da70651d2960?v=7c35a1f486694deab3d34b30febc5abd)</sub>
 
 <br>
 
