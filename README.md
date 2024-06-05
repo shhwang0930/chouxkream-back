@@ -26,7 +26,7 @@
 ## 📄 프로젝트 문서
 ### <sub>[테이블 설계](https://www.erdcloud.com/d/xFrQtSkb8uJTavzGm)</sub>
 ### <sub>[API 명세서](https://somber-turner-9e3.notion.site/8c1d0d5d13a94c09a3b58c8cdc67c8c8?v=0b3833773f6946c892832bab080734e5)</sub>
-### <syb>[사용자 요구사항 정의서](https://tender-bunny-45c.notion.site/26a1d55b9fd444bb9fbe61916d51d428?v=a62fccee178d488286e031251b6eab47)</sub>
+### <sub>[사용자 요구사항 정의서](https://tender-bunny-45c.notion.site/26a1d55b9fd444bb9fbe61916d51d428?v=a62fccee178d488286e031251b6eab47)</sub>
 ### <sub>[기술스택](https://tender-bunny-45c.notion.site/a1eb692c94044b5980c8d2aae37b38a7)</sub>
 <br>
 
